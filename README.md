@@ -17,7 +17,7 @@
 |12|[CS-Base](https://github.com/xiaolincoder/CS-Base.git)|图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  |17587|java, cpp, python, c, golang, linux, network, tcp|27-11-2024|  
 |13|[ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui.git)|一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.|7516|tts, chattts|5-12-2025|  
 |14|[ChineseBQB](https://github.com/zhaoolee/ChineseBQB.git)|🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~|15381||25-9-2025|  
-|15|[Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan.git)|CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式|13597|cdn, vless, cloudflare-workers, xray, ygkkk, cloudflare-pages, cloudflare, trojan, clash-meta, sing-box, reality, argo, nat64, http, socks5, ech|11-2-2026|  
+|15|[Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan.git)|CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式|13598|cdn, vless, cloudflare-workers, xray, ygkkk, cloudflare-pages, cloudflare, trojan, clash-meta, sing-box, reality, argo, nat64, http, socks5, ech|11-2-2026|  
 |16|[Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite.git)|-|1252||5-2-2022|  
 |17|[Data_Fusion_Course](https://github.com/ChangjingLiu/Data_Fusion_Course.git)|The solution of the data fusion  course of SJTU. MTALAB code for KF/UKF/EKF/PF/FKF/DKF. 数据融合技术，卡尔曼滤波KF/无迹卡尔曼滤波UKF/拓展卡尔曼滤波EKF等的MATLAB实现|108|kalman-filter, kalman|9-7-2023|  
 |18|[DeeplxFile](https://github.com/infrost/DeeplxFile.git)|基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long text translations.|1017||16-2-2025|  
@@ -82,17 +82,17 @@
 |77|[awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN.git)|值得关注的中文twitter用户|1080||18-6-2025|  
 |78|[bili2text](https://github.com/lanbinleo/bili2text.git)|Bilibili视频转文字，一步到位，输入链接即可使用|1414||23-10-2025|  
 |79|[biliup](https://github.com/biliup/biliup.git)|自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。|4946|bilibili, huya, douyu, douyin, youtube, twitch|3-3-2026|  
-|80|[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x.git)|Master programming by recreating your favorite technologies from scratch.|472516|programming, tutorials, tutorial-code, tutorial-exercises, free, awesome-list|21-2-2026|  
+|80|[build-your-own-x](https://github.com/codecrafters-io/build-your-own-x.git)|Master programming by recreating your favorite technologies from scratch.|472527|programming, tutorials, tutorial-code, tutorial-exercises, free, awesome-list|21-2-2026|  
 |81|[cashbook](https://github.com/dingdangdog/cashbook.git)|适合家庭部署的私人记账本！|361|cashbook, web, docker, ledger, nuxt3, postgresql, prisma|3-3-2026|  
-|82|[cfnew](https://github.com/byJoey/cfnew.git)|-|9781||4-3-2026|  
-|83|[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev.git)|A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience|100602|clash, clash-meta, clash-verge, linux, mac, tauri-app, windows, mihomo|5-3-2026|  
+|82|[cfnew](https://github.com/byJoey/cfnew.git)|-|9782||4-3-2026|  
+|83|[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev.git)|A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience|100607|clash, clash-meta, clash-verge, linux, mac, tauri-app, windows, mihomo|5-3-2026|  
 |84|[cloudflare](https://github.com/ip-scanner/cloudflare.git)|-|3753||6-6-2025|  
 |85|[cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email.git)|CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot|6340|cloudflare-email, cloudflare-pages, cloudflare-workers, email, free|5-3-2026|  
-|86|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|337610|computer-science, interview, programming-interviews, study-plan, data-structures, algorithms, software-engineering, algorithm, coding-interviews, interview-prep, coding-interview, interview-preparation|5-12-2024|  
+|86|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|337611|computer-science, interview, programming-interviews, study-plan, data-structures, algorithms, software-engineering, algorithm, coding-interviews, interview-prep, coding-interview, interview-preparation|5-12-2024|  
 |87|[cursor-vip](https://github.com/kingparks/cursor-vip.git)|cursor IDE enjoy VIP|4714|cursor, cursor-pro|11-7-2025|  
 |88|[dijkstras-algorithm](https://github.com/mburst/dijkstras-algorithm.git)|Implementations of Dijkstra's shortest path algorithm in different languages|541||5-1-2026|  
 |89|[docsify](https://github.com/docsifyjs/docsify.git)|🃏 A magical documentation site generator.|31029|documentation, documentation-tool, github-pages, docs, docsify, vue, doc, markdown|5-3-2026|  
-|90|[echarts](https://github.com/apache/echarts.git)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|65842|echarts, data-visualization, charts, charting-library, visualization, apache, data-viz, canvas, svg|26-2-2026|  
+|90|[echarts](https://github.com/apache/echarts.git)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|65844|echarts, data-visualization, charts, charting-library, visualization, apache, data-viz, canvas, svg|26-2-2026|  
 |91|[eno-music](https://github.com/Cteros/eno-music.git)|-|599||20-2-2026|  
 |92|[extract_forward_tgbot](https://github.com/AhFeil/extract_forward_tgbot.git)|存储转发给它的消息，并能推送到网页，方便查看编辑信息，附带拼接图片、视频转 GIF 功能。 Store the messages forwarded to it, and be able to push them to the web page, for easy viewing and editing of the information.|128|python3, telegram-bot|22-6-2024|  
 |93|[fideo-live-record](https://github.com/chenfan0/fideo-live-record.git)|A convenient live broadcast recording software! Supports Tiktok, Youtube, Twitch, Bilibili, Bigo!(一款方便的直播录制软件! 支持tiktok, youtube, twitch, 抖音，虎牙，斗鱼，快手，微博，网易cc，bilibili，花椒, 淘宝, 京东) |1769|douyin, douyu, ffmpeg, live-record, mac, tiktok, twitch, window, youtube, bigo, taobao, weibo, huya|5-11-2024|  
@@ -105,7 +105,7 @@
 |100|[get_jobs](https://github.com/loks666/get_jobs.git)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|5971|resume, submit, voluntarily, getjobs, job|30-1-2026|  
 |101|[get_subscribe](https://github.com/ermaozi/get_subscribe.git)|✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新   科学上网   翻墙|8723|clash, v2ray, trojan, trojan-go, sr, ssr, android, vpn|5-3-2026|  
 |102|[goImage](https://github.com/nodeseeker/goImage.git)|基于 Go 开发的图片托管服务，使用 Telegram 作为存储后端。|35|go, image-hosting|25-2-2026|  
-|103|[halo](https://github.com/halo-dev/halo.git)|强大易用的开源建站工具。|38029|halo, cms, halocms, content-management-system, blog, blog-engine, website-builder|5-3-2026|  
+|103|[halo](https://github.com/halo-dev/halo.git)|强大易用的开源建站工具。|38030|halo, cms, halocms, content-management-system, blog, blog-engine, website-builder|5-3-2026|  
 |104|[haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang.git)|好软分享|4810||31-12-2024|  
 |105|[hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot.git)|Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成|5764|xiaomi, miio, miot, home-assistant, smart-home, xiaomi-miot, miot-spec, homeassistant, iot, xiaoai, custom-component, home-assistant-integration, hass|7-2-2026|  
 |106|[hector_slam_Ceres](https://github.com/wenbowen123/hector_slam_Ceres.git)|"Localization and Perception for Control and Decision-Making of a Low-Speed Autonomous Shuttle in a Campus Pilot Deployment." SAE International Journal of Connected and Automated Vehicles 1, no. 12-01-02-0003 (2018).|23|slam, robotics, self-driving-car, ceres-solver|21-4-2019|  
@@ -114,11 +114,11 @@
 |109|[hexo-pro](https://github.com/wuzheng228/hexo-pro.git)|-|236||17-8-2025|  
 |110|[hexo.github.io](https://github.com/wuhu-pig/hexo.github.io.git)|-|1||27-8-2024|  
 |111|[html5-speedtest](https://github.com/insoxin/html5-speedtest.git)|一个基于HTML5的Speedtest 开源速度测试(服务器网速)只有9kb的精简汉化|120|html5-speedtest, speedtest|20-9-2019|  
-|112|[iptv-sources](https://github.com/HerbertHe/iptv-sources.git)|Autoupdate iptv sources|8641|iptv, iptv-channels, iptv-m3u, m3u, kodi, tvbox, diyp, docker|17-2-2025|  
-|113|[iptv-sources](https://github.com/wuhu-pig/iptv-sources.git)|自动抓取更新iptv源 Autoupdate iptv sources|1||17-12-2023|  
+|112|[iptv-sources](https://github.com/wuhu-pig/iptv-sources.git)|自动抓取更新iptv源 Autoupdate iptv sources|1||17-12-2023|  
+|113|[iptv-sources](https://github.com/HerbertHe/iptv-sources.git)|Autoupdate iptv sources|8641|iptv, iptv-channels, iptv-m3u, m3u, kodi, tvbox, diyp, docker|17-2-2025|  
 |114|[jpg2gif](https://github.com/hellodk34/jpg2gif.git)|把telegram导出的jpg/jpeg/png静态表情图片转换成微信能够导入的.gif文件|181|sticker, stickers, telegram|10-4-2024|  
 |115|[keyword_alert_bot](https://github.com/Hootrix/keyword_alert_bot.git)|telegram keyword alert bot ⏰|348|telegram-bot, bot, python, telegram, docker, sqlite|9-6-2025|  
-|116|[lean-side-bussiness](https://github.com/easychen/lean-side-bussiness.git)|精益副业：程序员如何优雅地做副业|11744||28-3-2024|  
+|116|[lean-side-bussiness](https://github.com/easychen/lean-side-bussiness.git)|精益副业：程序员如何优雅地做副业|11743||28-3-2024|  
 |117|[live](https://github.com/wwb521/live.git)|更新高质量电视直播源，欢迎大家使用，永久免费|2853||9-2-2026|  
 |118|[lottie-converter](https://github.com/ed-asriyan/lottie-converter.git)|Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP / WEBM|1008|tgs, telegram, gif, sticker, lottie, stickers, animated-stickers, gifski, webp, apng, png, tgs-to-apng, tgs-to-gif, tgs-to-png, tgs-to-webp, lottie-to-apng, lottie-to-gif, lottie-to-webp, lottie-to-webm, webm|24-2-2026|  
 |119|[lvmc-dspic33ck256mp508-an1078](https://github.com/microchip-pic-avr-solutions/lvmc-dspic33ck256mp508-an1078.git)|Sensorless Field Oriented Control of a PMSM with sliding mode observer|23|motor-control, pmsm|30-3-2022|  
@@ -126,14 +126,14 @@
 |121|[mclv-48v-300w-an1078-dspic33ck256mp508](https://github.com/microchip-pic-avr-solutions/mclv-48v-300w-an1078-dspic33ck256mp508.git)|Sensorless Field Oriented Control of a PMSM with sliding mode observer|9|foc, motor-control, pmsm|7-7-2022|  
 |122|[mdx-notes](https://github.com/maqi1520/mdx-notes.git)|⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版|1566|mdx, markdown-editor, markdown, nextjs, note-taking, notes|25-3-2025|  
 |123|[mi-gpt](https://github.com/idootop/mi-gpt.git)|🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。|12220||10-9-2025|  
-|124|[mihomo](https://github.com/MetaCubeX/mihomo.git)|A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.|27367|honkai-star-rail, mihomo, python, star-rail-api|21-2-2025|  
+|124|[mihomo](https://github.com/MetaCubeX/mihomo.git)|A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.|27368|honkai-star-rail, mihomo, python, star-rail-api|21-2-2025|  
 |125|[mybili](https://github.com/ellermister/mybili.git)|哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！|608|backup, bilibili, favorites, nas, download-videos, video-downloader|28-2-2026|  
-|126|[n8n](https://github.com/n8n-io/n8n.git)|Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.|177724|automation, ipaas, n8n, workflow, typescript, self-hosted, integrations, workflow-automation, cli, development, low-code, data-flow, integration-framework, apis, low-code-platform, no-code, ai, mcp, mcp-client, mcp-server|5-3-2026|  
+|126|[n8n](https://github.com/n8n-io/n8n.git)|Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.|177735|automation, ipaas, n8n, workflow, typescript, self-hosted, integrations, workflow-automation, cli, development, low-code, data-flow, integration-framework, apis, low-code-platform, no-code, ai, mcp, mcp-client, mcp-server|5-3-2026|  
 |127|[nekoray](https://github.com/MatsuriDayo/nekoray.git)|不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)|15229||12-12-2024|  
 |128|[note-gen](https://github.com/codexu/note-gen.git)|A cross-platform Markdown AI note-taking software.|10991|markdown, tauri, nextjs, chatbot, llm, note-taking, webdav, knowledge-base, rag, mcp, agent|4-3-2026|  
 |129|[oblivion](https://github.com/bepass-org/oblivion.git)|Unofficial warp client for android|4681||24-11-2025|  
 |130|[oblivion-desktop](https://github.com/bepass-org/oblivion-desktop.git)|Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux|8226|anticensorship, desktop, linux, mac, oblivion, proxy, warp, warp-plus, windows, cloudflare, gool, psiphon, zerotrust, warpinwarp, vpn, wireguard, wireguard-ui, endpoint, sing-box, masque|10-12-2025|  
-|131|[ollama](https://github.com/ollama/ollama.git)|Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.|164187|llama, llm, llms, go, golang, ollama, mistral, gemma, llama3, deepseek, gemma3, qwen, gpt-oss, glm, minimax|4-3-2026|  
+|131|[ollama](https://github.com/ollama/ollama.git)|Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.|164189|llama, llm, llms, go, golang, ollama, mistral, gemma, llama3, deepseek, gemma3, qwen, gpt-oss, glm, minimax|4-3-2026|  
 |132|[one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0.git)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|13225||10-10-2025|  
 |133|[ott](https://github.com/jianchang512/ott.git)|Api tool for local offline text translation supporting multiple languages/支持多语言的本地离线文字翻译api|482|translate, translation, translator|4-11-2024|  
 |134|[pdf2docxserver](https://github.com/infrost/pdf2docxserver.git)|A server app to convert pdf to docx based on pdf2docx/ 基于 pdf2docx 将 pdf 转换为 docx 的服务程序|54||1-9-2024|  
@@ -147,7 +147,7 @@
 |142|[robot_pose_ekf_learning](https://github.com/WinDistance/robot_pose_ekf_learning.git)|robot_pose_ekf 注释|5||20-11-2019|  
 |143|[robot_pose_ekf_study](https://github.com/qianlima8888/robot_pose_ekf_study.git)|对ros下的robot_pose_ekf包源码依照个人理解添加注释|4||17-4-2019|  
 |144|[rrt-algorithms](https://github.com/motion-planning/rrt-algorithms.git)|n-dimensional RRT, RRT* (RRT-Star)|813|geometry, rrt, rrt-star, algorithm, algorithms, random, motion-planning, tree|20-5-2024|  
-|145|[rules](https://github.com/app2smile/rules.git)|iOS App去广告|3987||4-3-2026|  
+|145|[rules](https://github.com/app2smile/rules.git)|iOS App去广告|3988||4-3-2026|  
 |146|[scoutrobot](https://github.com/abelmeadows/scoutrobot.git)|We have successfully implemented the autonomous navigation of UAV with our custom python node using LiDAR ; 2D mapping with Hector SLAM and 3D mapping using Octomap algorithms in the ROS simulation environment. We also implemented an algorithm to manage the battery life of the UAV though which the UAV can use to return home when the battery-level drops down to a certain percentage.|59||27-4-2019|  
 |147|[server](https://github.com/screego/server.git)|screen sharing for developers https://screego.net/|10292|webrtc, screensharing-tool, privacy, selfhosted, docker, go|1-1-2026|  
 |148|[shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules.git)|小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁|6236||5-3-2026|  
@@ -161,21 +161,21 @@
 |156|[tdl](https://github.com/iyear/tdl.git)|📥 A Telegram toolkit written in Golang|7185|telegram, downloader, telegram-api, download, bash, telegram-bot, telegram-userbot, telegram-bots, telegram-channel|23-12-2025|  
 |157|[teachingSMC](https://github.com/rnitsche66/teachingSMC.git)|Basics on Sliding Mode Control|4||24-2-2026|  
 |158|[telegram-files](https://github.com/jarvis2f/telegram-files.git)|A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.|2178|downloader, self-hosted, telegram, docker, nextjs, shadcn-ui, tdlib, vertx, unraid|26-12-2025|  
-|159|[telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader.git)|基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file|5158|media-downloader, flask, cross-platform, downloader, telegram-bot, cosplatfrom|4-3-2026|  
-|160|[telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader.git)|Download media files from a telegram conversation/chat/channel up to 2GiB per file|2557|telegram, telegram-apps, python3, telegram-api, media-downloader, pyrogram, archiving-media, python, telegram-desktop|24-2-2026|  
+|159|[telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader.git)|Download media files from a telegram conversation/chat/channel up to 2GiB per file|2557|telegram, telegram-apps, python3, telegram-api, media-downloader, pyrogram, archiving-media, python, telegram-desktop|24-2-2026|  
+|160|[telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader.git)|基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file|5158|media-downloader, flask, cross-platform, downloader, telegram-bot, cosplatfrom|4-3-2026|  
 |161|[tg-ff-remark](https://github.com/txhlxyz/tg-ff-remark.git)|tg-ff|490||14-5-2025|  
 |162|[tgState](https://github.com/csznet/tgState.git)|使用Telegram作为存储的文件外链系统，不限制文件大小和格式。|1049|go, golang, telegram, telegram-bot, file, file-sharing, file-upload, filesystem, images, imageserver, img, storage, storage-api, storage-service, telegram-api, telegram-bot-api, telegrambot, vercel|13-4-2025|  
 |163|[translators](https://github.com/zotero/translators.git)|Zotero Translators|1559||24-2-2026|  
 |164|[v2ray](https://github.com/ningmoon/v2ray.git)|Ubuntu安装V2ray指南|162||7-8-2023|  
 |165|[v2rayA](https://github.com/v2rayA/v2rayA.git)|A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀|14552|v2ray, shadowsocks, shadowsocksr, trojan, linux, gui, gfw, juicity, ssr, tuic|5-3-2026|  
-|166|[v2rayN](https://github.com/2dust/v2rayN.git)|A GUI client for Windows, Linux and macOS, support Xray and sing-box and others|97964|windows, proxy, socks5, shadowsocks, trojan, v2ray, v2fly, xray, vmess, vless, xtls|5-3-2026|  
-|167|[vaultwarden](https://github.com/dani-garcia/vaultwarden.git)|Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs|56344|vaultwarden, bitwarden, rust, docker, rocket, bitwarden-rs|4-3-2026|  
+|166|[v2rayN](https://github.com/2dust/v2rayN.git)|A GUI client for Windows, Linux and macOS, support Xray and sing-box and others|97967|windows, proxy, socks5, shadowsocks, trojan, v2ray, v2fly, xray, vmess, vless, xtls|5-3-2026|  
+|167|[vaultwarden](https://github.com/dani-garcia/vaultwarden.git)|Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs|56349|vaultwarden, bitwarden, rust, docker, rocket, bitwarden-rs|4-3-2026|  
 |168|[vps-inventory-monitoring](https://github.com/546669204/vps-inventory-monitoring.git)|VPS库存监控系统 --- 实时把握库存信息|334||8-7-2019|  
 |169|[warp-yg](https://github.com/yonggekkk/warp-yg.git)|warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态|4397|netflix, warp, warp-go, wgcf, cloudflare, ygkkk, chatgpt, socks5-proxy, warp-cli, vpn, endpoint, replit, wireguard|18-11-2025|  
 |170|[web-archive](https://github.com/Ray-D-Song/web-archive.git)|Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。|920|cloudflare, cloudflare-pages, d1, free, hono, self-hosted, serverless, web-archive, web-archiving|1-10-2025|  
 |171|[wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup.git)|-|6372||10-1-2026|  
 |172|[weread](https://github.com/midpoint/weread.git)|微信读书之青龙篇|24||14-4-2025|  
-|173|[wifi-cracking](https://github.com/brannondorsey/wifi-cracking.git)|Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat|12227|wifi, wpa2-cracking, aircrack-ng, hashcat, hacking, tutorial, cracking, password-cracking|26-12-2024|  
+|173|[wifi-cracking](https://github.com/brannondorsey/wifi-cracking.git)|Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat|12228|wifi, wpa2-cracking, aircrack-ng, hashcat, hacking, tutorial, cracking, password-cracking|26-12-2024|  
 |174|[wxread](https://github.com/findmover/wxread.git)|微信读书刷时长助你成为霸榜“大佬” |670|dockerfile, github-actions, wxreader, automation, python|30-9-2025|  
 |175|[x-ui-yg](https://github.com/yonggekkk/x-ui-yg.git)|x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出|3545|x-ui, xray-core, socks5, wireguard, chatgpt, warp, argo, cloudflared, clash-meta, sing-box, alpine, httpupgrade, oblivion, psiphon, xhttp|18-1-2026|  
 |176|[xiaomusic](https://github.com/hanxi/xiaomusic.git)|使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。|9358|music, xiaoai, xiaoai-speaker, xiaomi, xiaomusic, docker, docker-compose, pdm, python, vue|5-3-2026|  
